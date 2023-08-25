@@ -1,7 +1,5 @@
 # LogoGen
 
-![Generated Logo](examples/logo.svg)
-
 A Node.js command-line application that generates SVG logos for your projects. Say goodbye to outsourcing logo design – create your own logos with customizable shapes, colors, and text.
 
 ## Table of Contents
