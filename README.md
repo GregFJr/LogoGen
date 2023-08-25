@@ -30,20 +30,21 @@ A Node.js command-line application that generates SVG logos for your projects. S
 3. Install the dependencies:
 
    ```sh
-   npm install
+   npm install or npm i
    ```
 
 ## Usage
 
 1. Run LogoGen:
 
+2. Open the terminal and enter:
+
    ```sh
    node index.js
    ```
+3. Follow the prompts to customize your logo. You'll be able to select shapes, colors, and text.
 
-2. Follow the prompts to customize your logo. You'll be able to select shapes, colors, and text.
-
-3. Once you've completed the prompts, the application will generate an SVG logo and save it as `logo.svg` in the project directory.
+4. Once you've completed the prompts, the application will generate an SVG logo and save it as `logo.svg` in the project directory.
 
 ## Features
 
