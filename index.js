@@ -3,7 +3,7 @@ const fs = require('fs');
 const { Circle, Triangle, Square } = require('./shapes/shapes');
 
 async function userInput() {
-    const userschoice = await inquirer.prompt([
+    const usersChoice = await inquirer.prompt([
         {
             type: 'list',
             name: 'shape',
@@ -32,7 +32,7 @@ async function userInput() {
     ]);
 
     let selectedShape;
-    switch (userschoice.shape) {
+    switch (usersChoice.shape) {
         case 'Circle':
             selectedShape = new Circle();
             break;
@@ -47,9 +47,9 @@ async function userInput() {
             break;
   }
 
-    selectedShape.setColor(userschoice.color);
-    selectedShape.setText(userschoice.text);
-    selectedShape.setTextColor(userschoice.textColor);
+    selectedShape.setColor(usersChoice.color);
+    selectedShape.setText(usersChoice.text);
+    selectedShape.setTextColor(usersChoice.textColor);
 
     const svg = selectedShape.render();
 
