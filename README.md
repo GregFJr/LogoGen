@@ -58,7 +58,7 @@ A Node.js command-line application that generates SVG logos for your projects. S
 
 Here's an example SVG logo generated using the SVG Logo Generator:
 
-![Generated Logo](examples/logo.svg)
+![Generated Logo](/logo.svg)
 
 ## Contributing
 
