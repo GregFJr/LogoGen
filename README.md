@@ -59,6 +59,10 @@ Here's an example SVG logo generated using the SVG Logo Generator:
 
 ![Generated Logo](/logo.svg)
 
+## Demo 
+
+[LogoGen Demo](https://watch.screencastify.com/v/GegLXmZc67ncXq9RHbEi)
+
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements or new features, follow these steps:
