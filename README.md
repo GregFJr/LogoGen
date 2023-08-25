@@ -18,13 +18,13 @@ A Node.js command-line application that generates SVG logos for your projects. S
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/svg-logo-generator.git
+   git clone git@github.com:GregFJr/LogoGen.git
    ```
 
 2. Navigate to the project directory:
 
    ```sh
-   cd svg-logo-generator
+   cd LogoGen
    ```
 
 3. Install the dependencies:
