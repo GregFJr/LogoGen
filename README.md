@@ -35,7 +35,7 @@ A Node.js command-line application that generates SVG logos for your projects. S
 
 ## Usage
 
-1. Run the SVG Logo Generator:
+1. Run LogoGen:
 
    ```sh
    node index.js
