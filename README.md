@@ -48,6 +48,7 @@ A Node.js command-line application that generates SVG logos for your projects. S
 
 - Choose from shapes: circle, triangle, and square.
 - Customize colors for both the shape and the text.
+- Either enter the name of the color or use a hex code.
 - Input up to three characters for the logo text.
 - Generates SVG logos matching your specifications.
 - Simple and intuitive command-line interface using Inquirer.
