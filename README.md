@@ -8,6 +8,7 @@ A Node.js command-line application that generates SVG logos for your projects. S
 - [Usage](#usage)
 - [Features](#features)
 - [Examples](#examples)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 
